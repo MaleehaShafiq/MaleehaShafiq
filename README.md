@@ -103,14 +103,4 @@ As a Data Scientist and Machine Learning Engineer, I work with a variety of tool
 
 ---
 
-###📊 **My GitHub Stats**
 
-Here's a little summary of my activity on GitHub.
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaleehaShafiq&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaleehaShafiq&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
----
