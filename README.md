@@ -18,7 +18,7 @@
 
 ### 🚀 **My Current Mission**
 
--   🌱 **I’m currently deepening my expertise in:** Building and fine-tuning Large Language Models and developing autonomous AI agents.
+-   🌱 **I’m currently deepening my expertise in:** Fine-tuning Large Language Models and developing autonomous AI agents.
 -   🤝 **I’m looking to collaborate on:** End-to-end NLP projects,from text analysis and feature engineering to building agentic AI systems that leverage LLMs for planning and tool use.
 -   ⚡ **Fun fact:** I love making data speak through creative dashboards, bringing insights to life in fun and engaging ways!
 
